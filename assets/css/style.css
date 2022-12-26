@@ -412,13 +412,13 @@ body {
 }
 
 .hero-verification {
-	background: linear-gradient(to right, rgba(243, 243, 245, 0), rgba(243, 243, 245, 0)), url(../images/verification.webp) no-repeat center center;
-	background-size: cover;
-	background-position: left;
+	background: linear-gradient(to right, rgba(243, 243, 245, 0), rgba(243, 243, 245, 0)), url(../svgs/drone_delivery.svg) no-repeat right center;
+	background-size: contain;
+	background-position: right;
 }
 
 .hero {
-	background: linear-gradient(to right, rgba(243, 243, 245, 0), rgba(243, 243, 245, 0)), url(../images/hero.webp) no-repeat center center;
+	background: linear-gradient(to right, rgba(243, 243, 245, 0), rgba(243, 243, 245, 0)), url(../svgs/drone_delivery.svg) no-repeat center center;
 	background-size:contain;
 	background-position: center;
 	min-height: 800px;
