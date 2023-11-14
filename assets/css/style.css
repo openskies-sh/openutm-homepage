@@ -1506,6 +1506,14 @@ body {
 	line-height: 1.4;
 	margin-top: 0;
 }
+.footer small {
+	font-size: 12px;
+	font-weight: 200;
+	color: #e5e5e5;
+	line-height: 1.4;
+	margin-top: 0;
+}
+
 
 /* ------------ Bact-to-Top Styling Starts Here ------------*/
 /*
