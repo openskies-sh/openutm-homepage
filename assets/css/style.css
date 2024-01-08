@@ -412,7 +412,7 @@ body {
 }
 
 .hero-verification {
-	background: linear-gradient(to right, rgba(243, 243, 245, 0), rgba(243, 243, 245, 0)), url(../svgs/drone_delivery.svg) no-repeat right center;
+	background: linear-gradient(to right, rgba(243, 243, 245, 0), rgba(243, 243, 245, 0)), url(../images/2024/drone-verification.jpg) no-repeat right center;
 	background-size: contain;
 	background-position: right;
 }
@@ -1190,7 +1190,7 @@ body {
 ----------------------------------------------------------*/
 
 .yd_rev_bg {
-	background: linear-gradient(to right, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0)), url(../svgs/drone-race.svg) no-repeat center center;
+	background: linear-gradient(to right, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0)), url(../images/2024/drone-cityskyline.jpg) no-repeat center center;
 	background-size: cover;
 	padding: 20px;
 }
