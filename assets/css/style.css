@@ -510,7 +510,7 @@ body {
 }
 
 .hero-verification {
-	background: linear-gradient(to right, rgba(243, 243, 245, 0), rgba(243, 243, 245, 0)), url(../svg-refresh/connecting-illustration-part-A.svg) no-repeat right center;
+	background: linear-gradient(to right, rgba(243, 243, 245, 0), rgba(243, 243, 245, 0)), url(../svg-refresh/connecting-illustration-full.svg) no-repeat right center;
 	background-size: contain;
 	background-position: right;
 }
