@@ -161,7 +161,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: 'DM Sans';
+	font-family: 'Marcellus';
 	font-size: 16px;
 }
 
@@ -297,7 +297,7 @@ body {
 /*------ Navbar Styling ------*/
 
 .navbar {
-	font-family: "DM Sans";
+	font-family: "Marcellus";
 	padding: 15px 0;
 	background-color: #FFFFFF !important;
 	border-bottom: 1px solid #EFEFF1;
@@ -306,7 +306,7 @@ body {
 }
 
 .navbar .navbar-brand {
-	font-family: 'DM Sans';
+	font-family: 'Marcellus';
 	font-size: 18px;
 	font-weight: 600;
 	letter-spacing: 3px;
@@ -579,7 +579,7 @@ body {
 }
 
 .btn-action {
-	font-family: 'DM Sans';
+	font-family: 'Marcellus';
 	display: inline-block;
 	height: 42px;
 	padding: 0 30px;
@@ -698,7 +698,7 @@ body {
 }
 
 .hero2 .hero-form #contactForm label {
-	font-family: 'DM Sans';
+	font-family: 'Marcellus';
 	font-size: 14px;
 	font-weight: 600;
 	color: #004199;
@@ -1382,7 +1382,7 @@ body {
 
 
 .split_features .yd_flx2 .flx_1 h2 {
-	font-family: 'DM Sans' !important;
+	font-family: 'Read Hat Display' !important;
 	font-size: 32px;
 	font-weight: 300;
 	color: #111111;
@@ -2160,7 +2160,6 @@ ul#countdown li {
 	left: 25%;
 	bottom: -50%;
 }
-
 
 .yd_cta_box #response {
 	position: absolute;
